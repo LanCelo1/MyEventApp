@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/background_bottom_sheet_dialog.xml" value="0.1155" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/background_bottom_sheet_dialog_line.xml" value="0.1155" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_accept_new.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_airplane.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_battery_charging_off.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_battery_charging_on.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_battery_low.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_battery_ok.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_bluetooth_off.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_close.xml" value="0.1155" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_screen_off.xml" value="0.123" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/drawable/ic_three_dots_vertical.xml" value="0.186" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/activity_main.xml" value="0.18170158187259514" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/item_layout.xml" value="0.20307823856348867" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/item_layout2.xml" value="0.13809320222317228" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/item_view.xml" value="0.264" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/remoteview.xml" value="0.14023086789226166" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/screen_main.xml" value="0.152" />
+        <entry key="..\:/1/MyEventApp/app/src/main/res/layout/screen_splash.xml" value="0.1" />
+        <entry key="..\:/MyEventApp/app/src/main/res/drawable/background_bottom_sheet_dialog.xml" value="0.152" />
+        <entry key="..\:/MyEventApp/app/src/main/res/layout/activity_main.xml" value="0.19880290722530997" />
+        <entry key="..\:/MyEventApp/app/src/main/res/layout/item_layout.xml" value="0.19880290722530997" />
+        <entry key="..\:/MyEventApp/app/src/main/res/layout/item_layout2.xml" value="0.19880290722530997" />
+        <entry key="..\:/MyEventApp/app/src/main/res/layout/screen_main.xml" value="0.2" />
+        <entry key="..\:/MyEventApp/app/src/main/res/layout/screen_splash.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
